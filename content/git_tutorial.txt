@@ -259,7 +259,7 @@ Did everything go smoothly?  Check on the current state of your repo.
 
 Now, if you're confident everything looks good, you're going to "push"
 this  change  to  the  class  repo.   If  you're  not  convinced  that
-everything is right, ask one of us to check!
+everything is right, ask me to check!
 
 Let's push that change:
 

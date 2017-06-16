@@ -1,4 +1,5 @@
 +++++ Version control mini-bootcamp using git +++++
++++++ Created by Devin W. Silvia (June 2017)  +++++
 
 Before we get  started, note that any  line that follow "$"  will be a
 command that you enter on the command line.

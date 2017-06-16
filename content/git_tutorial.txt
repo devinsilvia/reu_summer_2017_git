@@ -226,6 +226,7 @@ options to ensure that git knows who we are by specifying our name and
 email address:
 
 $ git config --global user.name "Your Name"
+(Note, this can also just be your GitHub username)
 $ git config --global user.email youraddress@emailserver
 
 Those will set a global user name and email on your machine, but you
@@ -247,9 +248,9 @@ using your MSU NetID as the name.
 
 To set this up for today, do the following:
 
-$ mkdir <MSU NetID>
-(Note: use  your personal NetID where it says <MSU NetID>)
-$ cd <MSU NetID>
+$ mkdir <GitHub ID>
+(Note: use  your personal GitHub ID where it says <GitHub ID>)
+$ cd <GitHub ID>
 
 Now  create a  file called  "push_test.txt" in  that directory.   Once
 you've  created the  file, add  it to  the repository  and commit  the
